@@ -8,7 +8,7 @@ To get started with this project, you'll need to have R and RStudio installed on
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/your-username/iris-species-prediction.git
+   git clone https://github.com/prime-rog/Iris_predicition/
    ```
 
 2. **Navigate to the project directory:**
